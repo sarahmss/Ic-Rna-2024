@@ -104,6 +104,7 @@ parso==0.8.3
 patsy==0.5.6
 pexpect==4.9.0
 pillow==10.2.0
+pio==0.0.3
 platformdirs==4.2.0
 plotly==5.18.0
 prometheus-client==0.19.0
