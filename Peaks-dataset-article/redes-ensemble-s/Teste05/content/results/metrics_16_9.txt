@@ -1,1 +1,0 @@
-Hidden Size=[13], regularizer=0.4, learning_rate=0.5
