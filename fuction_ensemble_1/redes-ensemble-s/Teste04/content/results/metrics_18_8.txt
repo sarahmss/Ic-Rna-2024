@@ -1,0 +1,1 @@
+Hidden Size=[14], regularizer=0.01, learning_rate=0.05
